@@ -40,6 +40,11 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK/)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/SEU-USUARIO/)
 
+# 🌐 Socials:
+<br>
+ <div align="center">
+    <a href="https://www.instagram.com/ricardorlima_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" width = "180" target="_blank"></a>
+  </div>
 ---
 
 🏁 _"É importante agradecer pelo hoje sem nunca desistir do amanhã!"
